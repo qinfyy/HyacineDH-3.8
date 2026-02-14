@@ -1,6 +1,6 @@
 # HyacineDH
 
-**__此项目正在开发中！__**
+**__项目已经[迁移](https://github.com/DBKAHHK/HyacineDH-Core)！__**
 
 <p align="center">
 <a href="https://visualstudio.com"><img src="https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
